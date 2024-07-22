@@ -1,4 +1,4 @@
-FROM summerwind/actions-runner-dind:v2.301.1-ubuntu-22.04-6da1cde
+FROM summerwind/actions-runner-dind:ubuntu-22.04
 
 RUN sudo apt-get update -y
 RUN sudo apt-get upgrade -y
