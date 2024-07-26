@@ -1,4 +1,4 @@
-FROM summerwind/actions-runner-dind:ubuntu-22.04@sha256:09f7f6ec0336edd01acf8aea3881a49890c2a7cdf35dc7628a9f7ed0d6eca21f
+FROM summerwind/actions-runner-dind:ubuntu-22.04@sha256:07051f39168962d606533823a14936a5e32e31d17b5166feb6491aebb72ee677
 
 RUN sudo apt-get update -y
 RUN sudo apt-get upgrade -y
